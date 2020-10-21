@@ -40,6 +40,7 @@ public class Demo extends JFrame {
         mainPanel.add(checkBoxPanel);
         mainPanel.add(displayArea);
         //more comments
+        //ad
         checkBoxPanel.add(red);
         checkBoxPanel.add(yellow);
         checkBoxPanel.add(blue);
