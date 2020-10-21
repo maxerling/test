@@ -39,7 +39,7 @@ public class Demo extends JFrame {
         //MyListener l = new MyListener();
         mainPanel.add(checkBoxPanel);
         mainPanel.add(displayArea);
-
+        //more comments
         checkBoxPanel.add(red);
         checkBoxPanel.add(yellow);
         checkBoxPanel.add(blue);
